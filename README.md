@@ -1,17 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# PeperNode; a wrapper which allows the user to run Syntherklaas without 'hassle'
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/c1f3f641-0e63-42ff-b94c-38fc2c2f4ecf
+PeperNode simplifies the setup of Syntherklaas by checking for required system dependencies, installing anything that is missing, and then installing Syntherklaas so it can run in the browser via a CLI emulator.
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
