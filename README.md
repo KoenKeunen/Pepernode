@@ -1,7 +1,7 @@
 
 # PeperNode; a wrapper which allows the user to run Syntherklaas without 'hassle'
 
-PeperNode simplifies the setup of Syntherklaas by checking for required system dependencies, installing anything that is missing, and then installing Syntherklaas so it can run in the browser via a CLI emulator. The huge fanbase has quickly nicknamed the project as Saas: Syntherklaas as a Server, further widening its popularity and quickly generating huge popularity on reddit and Github.
+PeperNode simplifies the setup of Syntherklaas by checking for required system dependencies, installing anything that is missing, and then installing Syntherklaas so it can run in the browser via a CLI emulator. The huge fanbase has quickly nicknamed the project as Saas: Syntherklaas at a Server, further widening its popularity and quickly generating huge popularity on reddit and Github.
 
 ## Run Locally
 
