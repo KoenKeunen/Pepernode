@@ -1,0 +1,6 @@
+{
+  "name": "Pepernode",
+  "description": "A browser-based wrapper and CLI emulator for Syntherklaas, managing dependencies and execution via a terminal-like interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
